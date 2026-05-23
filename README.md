@@ -41,4 +41,4 @@ This project analyzes Superstore sales data to identify revenue trends, profit d
 
 ## Dashboard Preview
 
-![Tableau Dashboard]((images/tableau_dashboard_screenshot.png)
+![Tableau Dashboard](images/Superstore%20Sales%20%26%20Profitability%20Dashboard.png)
