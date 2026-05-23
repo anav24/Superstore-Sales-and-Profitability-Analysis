@@ -38,3 +38,7 @@ This project analyzes Superstore sales data to identify revenue trends, profit d
 ## Project Links
 - Kaggle Notebook: https://www.kaggle.com/code/anav24/superstore-analysis-using-sql-and-tableau
 - Tableau Dashboard: https://public.tableau.com/app/profile/aaron.navarro2958/viz/SuperstoreSalesandProfitabilityDashboard_17795624443720/SuperstoreSalesProfitabilityDashboard#1
+
+## Dashboard Preview
+
+![Tableau Dashboard]((images/tableau_dashboard_screenshot.png)
